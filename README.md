@@ -38,6 +38,3 @@ This repository serves as a foundational step. To enhance your configuration, co
 2. editing the existing API definition to your needs
 
 To learn more about how to build APIs for your managed control planes in Upbound, read the guide on [Upbound's docs](https://docs.upbound.io/).
-
-
-
